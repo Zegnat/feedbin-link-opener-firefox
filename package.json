@@ -1,0 +1,9 @@
+{
+  "name": "feedbin-link-opener-firefox",
+  "title": "Feedbin Link Opener",
+  "id": "jid1-nTLiY00xnkJXiw",
+  "description": "Open Feedbin links in a background tab.",
+  "author": "Martijn van der Ven",
+  "license": "MIT",
+  "version": "0.1"
+}

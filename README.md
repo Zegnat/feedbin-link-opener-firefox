@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> This repository has been archived. As of 2025-09-08, [the official Feedbin Firefox add-on](https://addons.mozilla.org/firefox/addon/feedbin-subscribe-save/) (version 1.6) supports setting a keyboard shortcut to open items in background tabs. This add-on uses the latest manifest and browser APIs and is recommended over my old work.
+>
+> See also:
+> 1. [The add-on on GitHub](https://github.com/feedbin/feedbin-extension).
+> 2. [My PR to introduce the keyboard shortcut into the official add-on](https://github.com/feedbin/feedbin-extension/pull/1).
+
 # Feedbin Link Opener
 
 [Feedbin](https://feedbin.com/) has long supported the keyboard shortcut `shift + v` to open the current item in a background tab, but it has never worked for Firefox. This add-on implements the keyboard shortcut.
